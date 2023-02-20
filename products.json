@@ -1,0 +1,40 @@
+{
+    "products":[
+        {
+            "id" : 1,
+            "name" : "samsung m31",
+            "color" : "blue",
+            "price" : 17000,
+            "category" : "mobile",
+            "brand" : "samsung",
+            "photo" : "https://images.samsung.com/is/image/samsung/levant-galaxy-m31-m315-sm-m315fzkvmid-frontblack-thumb-221128268"
+        },
+        {
+            "id" : 2,
+            "name" : "samsung m31",
+            "color" : "blue",
+            "price" : 17000,
+            "category" : "mobile",
+            "brand" : "samsung",
+            "photo" : "https://images.samsung.com/is/image/samsung/levant-galaxy-m31-m315-sm-m315fzkvmid-frontblack-thumb-221128268"
+        },
+        {
+            "id" : 3,
+            "name" : "samsung m31",
+            "color" : "blue",
+            "price" : 17000,
+            "category" : "mobile",
+            "brand" : "samsung",
+            "photo" : "https://images.samsung.com/is/image/samsung/levant-galaxy-m31-m315-sm-m315fzkvmid-frontblack-thumb-221128268"
+        },
+        {
+            "id" : 4,
+            "name" : "samsung m31",
+            "color" : "blue",
+            "price" : 17000,
+            "category" : "mobile",
+            "brand" : "samsung",
+            "photo" : "https://images.samsung.com/is/image/samsung/levant-galaxy-m31-m315-sm-m315fzkvmid-frontblack-thumb-221128268"
+        }
+    ]
+}
